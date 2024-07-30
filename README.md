@@ -43,11 +43,11 @@ git clone https://github.com/ChristhurasaRoshan/MERN-SAMPLE.git
 Open 2 terminals in separate windows/tabs.
 
 Terminal 1: Setting Up Backend 
-
+```sh
 cd backend
 npm install
 node index.js
-
+```
 
 Create a file called .env in the backend folder.
 Inside it write this :
@@ -57,15 +57,14 @@ Inside it write this :
 - PORT=8000
 
 
-
-
 Instead of this link write your database link.
 
 Terminal 2: Setting Up Frontend
-
+```sh
 cd frontend
 npm install
 npm start
+```
 
 Now, navigate to localhost:3000 in your browser. 
 The Backend API will be running at localhost:8000.
