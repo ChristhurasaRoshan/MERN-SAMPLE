@@ -37,13 +37,13 @@ This project is a simple web application that provides login and registration fu
 
 # Installation
 
-sh
+
 git clone https://github.com/ChristhurasaRoshan/MERN-SAMPLE.git
 
 Open 2 terminals in separate windows/tabs.
 
 Terminal 1: Setting Up Backend 
-sh
+
 cd backend
 npm install
 node index.js
@@ -62,7 +62,7 @@ Inside it write this :
 Instead of this link write your database link.
 
 Terminal 2: Setting Up Frontend
-sh
+
 cd frontend
 npm install
 npm start
